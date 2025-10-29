@@ -28,7 +28,7 @@
 	},
 	"devDependencies": {
 		"@types/node": "^22.14.0",
-		"supabase": "^2.40.7",
+		"supabase": "^2.54.11",
 		"typescript": "~5.8.2",
 		"vite": "^6.2.0"
 	}
