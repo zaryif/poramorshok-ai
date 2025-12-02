@@ -18,7 +18,7 @@
 		"axios": "^1.12.2",
 		"cors": "^2.8.5",
 		"dotenv": "^17.2.2",
-		"express": "^5.1.0",
+		"express": "^5.2.0",
 		"html-to-image": "^1.11.13",
 		"react": "^19.1.0",
 		"react-dom": "^19.1.1",
